@@ -1,0 +1,1 @@
+what is stack and heap and how the data  of variable , function or method are stored .

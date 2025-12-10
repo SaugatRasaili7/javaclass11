@@ -1,1 +1,3 @@
 what is stack and heap and how the data  of variable , function or method are stored .
+
+What is prompt engineering how it is done . prepare ppt too and learn it 
